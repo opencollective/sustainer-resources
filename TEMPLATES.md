@@ -45,3 +45,6 @@ Doing this will reinforce the sentiment of belonging to a company that deeply ca
 Frame it as the company’s holiday season community gift
 
 Think about the marketing / communication benefits.
+
+# Google Form Template
+https://res.cloudinary.com/opencollective/image/upload/v1540229004/image_2_1_vsbdbs.png
