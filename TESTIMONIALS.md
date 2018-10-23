@@ -5,8 +5,11 @@ https://twitter.com/LearnVuejs2/status/1052351082205208577 https://twitter.com/_
 
 # From Sponsors
 Algolia https://blog.algolia.com/supporting-open-source-projects/
+
 TripleByte https://triplebyte.com/blog/we-re-creating-a-new-source-of-revenue-open-source-software
+
 X-Team https://hackernoon.com/how-webpack-raised-15-000-in-3-months-and-the-future-of-open-source-cb2c9f68fffa
+
 Coinbase https://engineering.coinbase.com/coinbase-open-source-fund-may-june-update-9f6fef200b04
 
 # The case for 'Good for hiring'
