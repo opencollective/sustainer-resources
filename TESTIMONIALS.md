@@ -5,13 +5,27 @@ https://twitter.com/LearnVuejs2/status/1052351082205208577 https://twitter.com/_
 
 # From Sponsors
 [Algolia](https://blog.algolia.com/supporting-open-source-projects/)
+
 [TripleByte](https://triplebyte.com/blog/we-re-creating-a-new-source-of-revenue-open-source-software)
+
 [X-Team](https://hackernoon.com/how-webpack-raised-15-000-in-3-months-and-the-future-of-open-source-cb2c9f68fffa)
+
 [Coinbase](https://engineering.coinbase.com/coinbase-open-source-fund-may-june-update-9f6fef200b04)
+
+[Manifold](https://blog.manifold.co/manifold-update-human-peter-ef15771feae0) gives their employees funds to donate to open source and they post about it in a really cute way.
+
+[Jetruby](https://expertise.jetruby.com/why-your-it-business-should-support-open-source-658c4b7e650d?gi=5ecf81bfc295)
+
+[Amp](https://amphtml.wordpress.com/2018/01/05/supporting-open-source-sustainability/)
 
 # The case for 'Good for hiring'
 Read Trivago's quotes [here](https://medium.com/webpack/trivago-sponsors-webpack-for-second-year-bfe6ca2f0702)
 
 # Projects blogposts
 [Babel](https://babeljs.io/blog/2018/07/16/announcing-babels-new-partnership-with-trivago)
+
 [Webpack](https://medium.com/webpack/trivago-sponsors-webpack-for-second-year-bfe6ca2f0702)
+ 
+[Open EMR](https://www.openemr.blog/post/accepting-donations-on-opencollective/)
+
+[FeathersJS](https://blog.feathersjs.com/flying-into-2018-13bda623f089)
