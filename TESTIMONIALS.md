@@ -5,6 +5,8 @@ https://twitter.com/LearnVuejs2/status/1052351082205208577 https://twitter.com/_
 
 # From Sponsors
 https://blog.algolia.com/supporting-open-source-projects/
+https://triplebyte.com/blog/we-re-creating-a-new-source-of-revenue-open-source-software
+https://hackernoon.com/how-webpack-raised-15-000-in-3-months-and-the-future-of-open-source-cb2c9f68fffa
 
 # The case for 'Good for hiring'
 Read Trivago's quotes here https://medium.com/webpack/trivago-sponsors-webpack-for-second-year-bfe6ca2f0702
